@@ -1,0 +1,7 @@
+{
+  "name": "pg-new-muoi18t0",
+  "type": "module",
+  "dependencies": {
+    "express": "^5.0.0"
+  }
+}
